@@ -1,12 +1,13 @@
-#Menaz-Personal-Portfolio Project
+# Menaz-Personal-Portfolio Project
 **Title: From Petroleum Engineer to Software Innovator: My Journey of Transformation**
 
-*Introduction*
+##   *Introduction*
 My journey has taken me from the depths of petroleum engineering to the limitless world of software innovation. This transformation wasn't just a change of career; it was a fusion of passions and expertise. In this blog post, I'll share my personal focus, a pivotal moment in my journey that drove me to embrace software engineering, and the remarkable accomplishments I've achieved through this transformative path.
-**My Personal Focus**
+
+## **My Personal Focus**
 I am a dedicated individual driven by curiosity and a relentless desire to create positive change through technology. My journey from petroleum engineering to software engineering is a testament to my commitment to personal and professional growth. When I'm not immersed in the world of technology and problem-solving, I find joy in exploring the outdoors, reading voraciously, and nurturing my creative side through various artistic pursuits. My diverse interests fuel my passion for innovation and my unwavering belief in the potential of individuals to make a meaningful impact in the world.
 My personal focus became clear - I wanted to blend my knowledge of petroleum engineering and business development with the exciting world of software. This fusion was driven by the belief that these diverse skills could synergize to solve complex problems and drive innovation.
-**The Pivotal Moment**
+## **The Pivotal Moment**
 The turning point in my journey came during a project with a colleague where he was tasked with optimizing drilling operations. It was a formidable challenge, one that involved analyzing vast datasets, predicting outcome, and enhancing efficiency. As we delved into the project, it struck me that software could be the key to unlocking new possibilities.
 We embarked on a mission to develop a custom software tool that would revolutionize our drilling operations. It was a daunting task; I was stepping into unfamiliar territory. However, my passion for technology fueled my determination. I dove headfirst into learning software engineering, enrolling in courses, attending hackathons, and collaborating with experts in the field.
 But the journey didn't stop there. I realized that my newfound expertise could extend beyond my immediate industry. I began leveraging my software skills to address broader challenges. Networking became second nature, allowing me to collaborate with professionals from diverse backgrounds and forge connections that fueled interdisciplinary innovation.
